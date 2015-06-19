@@ -1,1 +1,1 @@
-These are some C++ programs i did while in college.
+These are some C++ programs that made early in college.
